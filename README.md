@@ -1,5 +1,9 @@
 # To run this project
 
+### `npm install`
+
+Will install all the depending packages.
+
 ### `npm start`
 
 Runs the app in the development mode.\
