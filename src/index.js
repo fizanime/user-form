@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVitals';  //	reportWebVitals is a 
+//built-in tool included by the create-react-app package for measuring the real-life performance of your app
 
 ReactDOM.render(
   <React.StrictMode>

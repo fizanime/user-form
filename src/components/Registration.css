@@ -1,0 +1,54 @@
+h3 {
+    
+    text-align: center;
+    margin-top: 2vh;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+form{
+    background-color:aliceblue;
+    justify-content: center;
+}
+
+.input{
+    height:25px;
+    width:12rem;
+    height:3rem;
+}
+
+#container{
+    text-align: center;
+}
+
+button{
+    background-color:rgb(52, 52, 190);
+    color: white;
+    text-align: center;
+    margin-left: 50%;
+    display: flex;
+    justify-content: center;
+    display: grid;
+}
+
+label{
+text-align: center;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.form-group {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.25);
+    padding: 0.5rem;
+    margin: 2vh 4vw 2vh 4vw;
+    border-radius: 8px;
+    background-color: #6bdacb;
+  }
+  
+  
